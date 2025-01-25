@@ -1,0 +1,2 @@
+# Java Loop Bug
+This repository demonstrates a common subtle bug in Java involving premature loop termination. The `BuggyLoop.java` file contains the erroneous code.  The corrected version is in `FixedLoop.java`. The issue is explained in the code comments.
